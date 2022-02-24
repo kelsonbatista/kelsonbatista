@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>
+    <td style="vertical-align:top">
       <h2> Who I Am ? </h2>
       <b>A passionate developer who wants to be a pioneer at what he is doing.</b>
       <ul>
@@ -11,10 +11,12 @@
       </ul>  
       </td>   
      <td>
-      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/IMG-20181019-WA0007A600PB.jpg?raw=true" width="500">
+      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/DSC07853A600.JPG?raw=true" width="500">
      </td>
    </tr>
 </table>
+<!-- https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/DSC07853A600.JPG?raw=true -->
+<!-- https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/IMG-20181019-WA0007A600PB.jpg?raw=true -->
 
 ## Profile stats 
 <div align="center">
