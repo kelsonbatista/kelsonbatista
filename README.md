@@ -1,9 +1,11 @@
-## Bem-vindo(a)! 
+## Welcome! 
 <div align="center">
   <a href="https://github.com/kelsonbatista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kelsonbatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonbatista&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## Tools and Technologies 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
