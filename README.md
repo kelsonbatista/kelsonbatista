@@ -1,4 +1,22 @@
-## Welcome! 
+<table>
+  <tr>
+    <td>
+      <h1> Who I Am ? </h1>
+      <b>A passionate developer who wants to be a pioneer at what he is doing.</b>
+      <ul>
+        <li>Software Developer - Full Stack Web Developer</li>
+        <li>Nature and Animal Photographer at <a href="https://instagram.com/dogaklani" alt="Doğa Klanı">Doğa Klanı </a></li>
+        <li>Entrepreneur Enthusiast</li>
+        <li>Book Buff <a href="https://goodreads.com/mustafadalga" alt="Good Reads">Good Reads</a></li>
+      </ul>  
+      </td>   
+     <td>
+      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/DSC07853A600.JPG?raw=true" width="500">
+     </td>
+   </tr>
+</table>
+
+## Profile stats 
 <div align="center">
   <a href="https://github.com/kelsonbatista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kelsonbatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;
