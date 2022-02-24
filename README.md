@@ -2,12 +2,13 @@
   <tr>
     <td style="vertical-align:top">
       <h2> Who I Am ? </h2>
-      <b>A passionate developer who wants to be a pioneer at what he is doing.</b>
+      <b>Former engineer with more than 20 years of global and diversified experience in different sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer.</b>
       <ul>
         <li>Software Developer - Full Stack Web Developer</li>
-        <li>Nature and Animal Photographer at <a href="https://instagram.com/dogaklani" alt="Doğa Klanı">Doğa Klanı </a></li>
-        <li>Entrepreneur Enthusiast</li>
-        <li>Book Buff <a href="https://goodreads.com/mustafadalga" alt="Good Reads">Good Reads</a></li>
+        <li>Nature and Outdoors Lover</li>
+        <li>Traveller by passion</li>
+        <li>Technology Enthusiast</li>
+        <li>Good beer, good food and good chat :)</a></li>
       </ul>  
       </td>   
      <td>
@@ -56,6 +57,6 @@
   <a href="https://www.twitch.tv/foxkelson" target="_blank"><img src="https://img.shields.io/badge/Twitch-7289DA?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:kelsonbatista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/kelsonbatista/kelsonbatista/blob/output/github-contribution-grid-snake.svg)
- 
+  <!-- ![Snake animation](https://github.com/kelsonbatista/kelsonbatista/blob/output/github-contribution-grid-snake.svg)
+  -->
 </div>
