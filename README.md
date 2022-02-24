@@ -11,7 +11,7 @@
       </ul>  
       </td>   
      <td>
-      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/DSC07853A600.JPG?raw=true" width="500">
+      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/IMG-20181019-WA0007A600PB.jpg?raw=true" width="500">
      </td>
    </tr>
 </table>
