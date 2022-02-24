@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td style="vertical-align:top">
+    <td style="vertical-align:top; width: 50%">
       <h2> Who I Am ? </h2>
-      <b>Former engineer with more than 20 years of global and diversified experience in different sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer.</b>
+      <b>Former engineer with more than 20 years of global and diversified experience in different sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer.</b><br>
       <ul>
         <li>Software Developer - Full Stack Web Developer</li>
         <li>Nature and Outdoors Lover</li>
