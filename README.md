@@ -2,14 +2,8 @@
   <tr>
     <td style="vertical-align:top;" width="50%">
       <h2> Who I Am ? </h2>
-      <b>Former engineer with more than 20 years of global and diversified experience in different sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer.</b><br><br>
-      <ul>
-        <li>Software Developer - Full Stack Web Developer</li>
-        <li>Nature and Outdoors Lover</li>
-        <li>Traveller by passion</li>
-        <li>Technology Enthusiast</li>
-        <li>Good beer, good food and good chat :)</a></li>
-      </ul>  
+      <p>Former engineer with more than 20 years of global and diversified experience in different sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer.</p><br><br>
+      <p>Nature and outdoors lover, traveller by passion, technology enthusiast and always up to good beer, good food and good chat :)</p>
       </td>   
      <td>
       <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/DSC07853A600.JPG?raw=true" width="500px">
