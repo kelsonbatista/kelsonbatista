@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align:top;" width="50%">
+    <td style="vertical-align:top;" width="60%">
       <h2> Who I Am ? </h2>
       <p>Former engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveller by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
       </td>   
