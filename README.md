@@ -4,8 +4,10 @@
       <h2> Who I Am ? </h2>
       <p>Former engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveller by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
       </td>   
-     <td style="text-align: center">
-      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/img004.jpg?raw=true" width="400px">
+     <td>
+       <center>
+          <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/img004.jpg?raw=true" width="400px">
+       </center>
      </td>
    </tr>
 </table>
