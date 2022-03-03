@@ -5,7 +5,7 @@
       <p>Former engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, obtaining certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveller by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
       </td>   
      <td>
-      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/img003.png?raw=true" width="500px">
+      <img src="https://github.com/kelsonbatista/kelsonbatista.github.io/blob/version/1.0/assets/public/images/img003.png?raw=true" width="400px">
      </td>
    </tr>
 </table>
