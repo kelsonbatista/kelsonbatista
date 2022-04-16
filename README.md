@@ -17,8 +17,8 @@
 ## Profile stats 
 <div align="center">
   <a href="https://github.com/kelsonbatista">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kelsonbatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonbatista&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kelsonbatista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonbatista&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Tools and Technologies 
