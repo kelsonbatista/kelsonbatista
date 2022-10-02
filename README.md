@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align:top;" width="60%">
       <h2> Who I Am ? </h2>
-      <p>Experienced engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition to IT, with certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveler by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
+      <p>Experienced engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, with certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveler by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
       </td>   
      <td>
        <center>
