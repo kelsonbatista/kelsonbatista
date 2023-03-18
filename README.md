@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align:top;" width="60%">
       <h2> Who I Am ? </h2>
-      <p>Experienced engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since 1997, currently in definitive career transition, with certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveler by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
+      <p>Experienced engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since the 90's, currently in definitive career transition, with certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveler by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
       </td>   
      <td>
        <center>
@@ -29,6 +29,8 @@
   <img align="center" alt="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Angular" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Ruby on Rails" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  <img align="center" alt="Ruby on Rails" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
   <img align="center" alt="NodeJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="ExpressJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -47,6 +49,7 @@
   <img align="center" alt="Tailwind" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PosgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Slack" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" alt="Trello" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
