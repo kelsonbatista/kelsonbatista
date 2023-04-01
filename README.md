@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align:top;" width="60%">
       <h2> Who I Am ? </h2>
-      <p>Experienced engineer from diverse sectors of the Defense and Aerospace industry, passionate about web development and online marketing since the 90's, currently in definitive career transition, with certification in Information Technology to work as Full Stack Web Developer. Nature and outdoors lover, traveler by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
+      <p>Multidisciplinary and dynamic engineer with communication and teamwork skills. Passionate about technology and problem solving, currently in career transition, looking for new challenges in the Data/Web Development area. I am certified as Full Stack Developer, knowledge in React, Node, TypeScript, Ruby on Rails among others. Nature and outdoors lover, traveler by passion, technology enthusiast and always ready to good beer, good food and good chat :)</p>
       </td>   
      <td>
        <center>
